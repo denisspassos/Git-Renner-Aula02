@@ -1,3 +1,4 @@
+
 # Página Pessoal de Denis
 
 Olá, eu sou o Denis, entrei nesse curso com o objetivo de aprender sobre o universo Data. Sou servidor público da área administrativa, estou me especializando em dados com o objetivo de migrar de carreira.
@@ -12,3 +13,6 @@ Olá, eu sou o Denis, entrei nesse curso com o objetivo de aprender sobre o univ
 
 ## Minha máquina
  - AMD Ryzen 7, 12 GB RAM, SSD 128 GB
+
+# Read me. 
+
