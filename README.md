@@ -1,5 +1,3 @@
-# Read me. 
-
 # Página Pessoal de Denis Passos
 
 Olá, eu sou o Denis, entrei nesse curso com o objetivo de aprender sobre o universo Data. Sou servidor público da área administrativa, estou me especializando em dados com o objetivo de migrar de carreira.
