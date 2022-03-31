@@ -14,3 +14,5 @@ Olá, eu sou o Denis, entrei nesse curso com o objetivo de aprender sobre o univ
  - AMD Ryzen 7, 12 GB RAM, SSD 128 GB
 
 ## Feature 1
+
+## Mais uma linha pra corrigir o erro fictício
