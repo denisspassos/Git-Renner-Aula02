@@ -13,3 +13,5 @@ Olá, eu sou o Denis, entrei nesse curso com o objetivo de aprender sobre o univ
 ## Minha máquina
  - AMD Ryzen 7, 12 GB RAM, SSD 128 GB
 
+# Read me. 
+
